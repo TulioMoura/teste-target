@@ -1,5 +1,5 @@
 This repository makes part of the Target's selection process. 
-The answers to the challenges descripted will be written in index.js file.
+The answers to the challenges descripted will be written in listed .js files.
 
 Questão 1 - 91
 
